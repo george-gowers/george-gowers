@@ -1,6 +1,6 @@
 ### Hi there, Im George 👋
 
-I am a Le Wagon full-stack web development graduate!
+I am a Le Wagon full stack web development graduate!
 
 I love Backend development.
 
