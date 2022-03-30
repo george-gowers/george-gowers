@@ -1,4 +1,4 @@
-Hi there, Im George 👋
+### Hi there, Im George 👋
 
 I am a Le Wagon full-stack web development graduate!
 
