@@ -9,4 +9,3 @@ I love Backend development.
 - https://cat-purrfectmatch.herokuapp.com
 - https://airbnb-lewagon.herokuapp.com
 
-https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain-wordmark.svg
