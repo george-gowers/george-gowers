@@ -2,7 +2,7 @@
 
 I am a Le Wagon full-stack web development graduate!
 
-I love Backend development
+I love Backend development.
 
 2 Projects I'm proud of:
 
