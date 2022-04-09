@@ -11,7 +11,7 @@ I love Backend development.
 
 Personal Projects to continue learning:
 
-- https://cocktails-by-george.herokuapp.com
+- https://www.cocktailsbygeorge.nl
 
 ### Tech Stack
 
