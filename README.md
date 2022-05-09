@@ -4,6 +4,8 @@ I am a Le Wagon full stack web development graduate!
 
 I love Backend development.
 
+check out my portfolio: https://troopl.com/georgegowers
+
 2 Team Projects I'm proud of:
 
 - https://cat-purrfectmatch.herokuapp.com
