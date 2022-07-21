@@ -14,6 +14,7 @@ check out my portfolio: https://troopl.com/georgegowers
 Personal Projects to continue learning:
 
 - https://cocktailsbygeorge.nl
+- https://cocktail-database-api.herokuapp.com (Built my own API)
 
 ### Tech Stack
 
